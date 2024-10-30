@@ -4,8 +4,8 @@ I'm a software architect with a passion for designing scalable, maintainable, an
 
 ## 🏗️ Featured Repositories
 
-### Architecture
-- 📘 **SOLID Principles of Object-Oriented Design**  
+### Architecture Fundamentals
+- 📘 (**SOLID Principles of Object-Oriented Design**)[https://github.com/Ajishkbn/architecture-fundamentals-solid]
 - 🧹 **Clean Code Practices**  
 - 🔍 **Design Patterns and Architecture**  
 - 🏛️ **Clean Architecture Principles**
