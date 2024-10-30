@@ -1,17 +1,15 @@
 # 👋 Welcome to My GitHub!
 
-I'm a software architect with a passion for designing scalable, maintainable, and resilient software systems. My repositories cover core principles of software architecture, design patterns, and coding best practices, with a strong focus on C++. I aim to help developers write clean, efficient, and robust code.
-
 ## 🏗️ Featured Repositories
 
-### Architecture Fundamentals
-- 📘 (**SOLID Principles of Object-Oriented Design**)[https://github.com/Ajishkbn/architecture-fundamentals-solid]
-- 🧹 **Clean Code Practices**  
-- 🔍 **Design Patterns and Architecture**  
-- 🏛️ **Clean Architecture Principles**
+### Architecture Fundamentals in C++
+- 📘 [**SOLID Principles of Object-Oriented Design**](https://github.com/Ajishkbn/architecture-fundamentals-solid)
+- 🧹 [**Clean Code Practices**](https://github.com/Ajishkbn/architecture-fundamentals-clean-code)
+- 🔍 [**Design Patterns and Architecture**](https://github.com/Ajishkbn/architecture-fundamentals-design-patterns)
+- 🏛️ [**Clean Architecture Principles**](https://github.com/Ajishkbn/architecture-fundamentals-clean-architecture)
 
 ### Development
-- 💻 **Must-Do Coding Questions for C++**
+- 💻 [**Must-Do Coding Questions for C++**](https://github.com/Ajishkbn/must-do-coding-questions-cpp)
 
 ---
 
