@@ -4,11 +4,14 @@ I'm a software architect with a passion for designing scalable, maintainable, an
 
 ## 🏗️ Featured Repositories
 
-📘 **SOLID Principles of Object-Oriented Design**  
-🧹 **Clean Code Practices**  
-🔍 **Design Patterns and Architecture**  
-💻 **Must-Do Coding Questions for C++**  
-🏛️ **Clean Architecture Principles**  
+### Architecture
+- 📘 **SOLID Principles of Object-Oriented Design**  
+- 🧹 **Clean Code Practices**  
+- 🔍 **Design Patterns and Architecture**  
+- 🏛️ **Clean Architecture Principles**
+
+### Development
+- 💻 **Must-Do Coding Questions for C++**
 
 ---
 
@@ -18,4 +21,3 @@ I'm a software architect with a passion for designing scalable, maintainable, an
 - **Resilient and Scalable Systems**
 
 ## 🤝 Let's Connect
-Feel free to explore the repositories and reach out if you have questions or feedback. Let's build better systems, one design principle at a time!
